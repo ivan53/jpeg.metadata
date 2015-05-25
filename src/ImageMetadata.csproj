@@ -49,7 +49,7 @@
     <Compile Include="ImageFileDirectory.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RationalType.cs" />
-    <Compile Include="TagId.cs" />
+    <Compile Include="IfdTagId.cs" />
     <Compile Include="TiffHeader.cs" />
   </ItemGroup>
   <ItemGroup>
